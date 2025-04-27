@@ -41,6 +41,4 @@ This project is now completed, with all the functionalities implemented and test
 
 ## Other Information
 
-Feel free to contribute to the project by submitting pull requests or reporting issues on the GitHub repository.
-"# JSONPOWERDB" 
-"# JSONPOWERDB" 
+
